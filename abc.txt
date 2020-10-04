@@ -1,9 +1,6 @@
 xin chao, day la function 1 viet sua
 xin chao, day la function 1 hien fix
 asdasdfasd
-1111111111111111
-hien fix
-hien1
 
-abcdf
-hien fix
+hien 123
+
